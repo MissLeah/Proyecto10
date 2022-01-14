@@ -1,2 +1,1 @@
-# Proyecto10
-Archivos del proyecto 10
+# Animacion_Fantasma_2
